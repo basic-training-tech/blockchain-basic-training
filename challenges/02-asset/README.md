@@ -1,0 +1,1 @@
+# Algorand Standard Asset Rookie
